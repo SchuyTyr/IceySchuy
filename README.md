@@ -1,4 +1,7 @@
 # IceySchuy
+
+**Note: As of June 2023, this bot and website are no longer updated. Due to the changes to the access to the Twitter API (namely no longer being free), I have decided to shut down this project. It was fun while it lasted.**
+
 The IceySchuy (Icey—Sky) bot was created to compile all the PHF (formally the NWHL) news in one place. To start, this bot will only retweet the PHF and official team accounts, but later on, media members and other officials may be added. This bot was created in Python with Tweepy and the Twitter API.  
 
 
